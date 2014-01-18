@@ -1,4 +1,4 @@
-ProgrammingEqualsPlusPlusAlgorithms
+"Programming = ++ Algorithms" book
 ===================================
 
-All code snippets from the "Programming = ++ Algorithms" book (http://www.programirane.org/)
+Unofficial repository for the "Programming = ++ Algorithms" book and all code snippets (http://www.programirane.org/)
